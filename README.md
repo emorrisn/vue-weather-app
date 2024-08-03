@@ -16,3 +16,8 @@ then run:
 
 This project was made for a bit of Vue practice and is super basic.
 Feel free to use it if you like.
+
+# Screenshots
+
+![Location](screenshots/location.png)
+![Search](screenshots/search.png)
